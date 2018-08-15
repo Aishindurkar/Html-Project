@@ -1,0 +1,8 @@
+
+a:link{color:pink;font-size:35px;}
+
+
+
+a:visited{color:orange;font-size:40px;}
+a:hover{color:blue;font-size:50px;}
+a:active{color:green;font-size:60px;}
